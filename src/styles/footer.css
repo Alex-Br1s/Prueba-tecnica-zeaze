@@ -1,0 +1,12 @@
+.footer-customer {
+    background-color: #D63415;
+    width: 100%;
+    height: 200px;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .footer-customer {
+        background-color: #f8f9fa;
+    }
+}

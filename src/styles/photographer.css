@@ -1,0 +1,14 @@
+.photographer-customer {
+    display: flex;
+    gap: 1rem; 
+    overflow-x: auto; 
+    scrollbar-width: thin; 
+    scrollbar-color: #D63415 #e0e0e0;
+    justify-content: flex-start; 
+}
+
+@media (min-width: 1030px) {
+    .photographer-customer {
+        justify-content: center; 
+    }
+}
